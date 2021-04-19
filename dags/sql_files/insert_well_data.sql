@@ -1,0 +1,1 @@
+INSERT INTO well(well_name, is_newly_added) VALUES (%s,%s)

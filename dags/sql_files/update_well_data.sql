@@ -1,0 +1,1 @@
+UPDATE well set is_newly_added = false
